@@ -1,1 +1,0 @@
-Prepare development server script with [terraform files](infrastructure/msp-5-dev-server-of-petclinic/dev-server.tf, dev-variable.tf, dev.auto.tfvars, petclinicserver-userdata.sh) for developers, enabled with `Docker`,  `Docker-Compose`,  `Java 11`,  `Git` and save them under `infrastructure` folder.
